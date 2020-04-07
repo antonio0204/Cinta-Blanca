@@ -1,0 +1,95 @@
+/* *{
+    background-color: aqua;
+
+} */
+
+.abuelo {
+    border: solid 2px black;
+    width: 1000px;
+    height: 500px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row;
+}
+
+.padre {
+    border: solid 2px black;
+    width: 40%;
+    height: 80%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row;
+}
+.madre {
+    border: solid 2px black;
+    width: 40%;
+    height: 80%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.hijo {
+    border: solid 3px rgb(12, 77, 197);
+    width: 40%;
+    height: 80%;
+
+    /* medidas nieto */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row;
+
+}
+.hijo2 {
+    border: solid 3px rgb(12, 77, 197);
+    width: 40%;
+    height: 80%;
+
+    /* medidas nieto */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column-reverse;
+
+}
+
+.nieto {
+    border: solid 2px rgb(197, 12, 12);
+    width: 20%;
+    height: 40%;
+
+    /* medidas nieto */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column-reverse;
+}
+
+.nieto2 {
+    border: solid 2px rgb(197, 12, 12);
+    width: 65%;
+    height: 10%;
+
+    /* medidas nieto */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column-reverse;
+}
+
+.biznieto {
+    border: solid 2px rgb(197, 12, 12);
+    width: 65%;
+    height: 10%;
+}
+
+.biznieto2 {
+    border: solid 2px rgb(197, 12, 12);
+    width: 65%;
+    height: 10%;
+}

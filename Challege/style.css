@@ -1,0 +1,64 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    background-color: whitesmoke;
+    font-family: 'Muli', sans-serif;   
+}
+
+header {
+    margin: 0px;
+    padding: 8px;
+    background-color: aquamarine;
+    margin-bottom: 288px;
+    
+}
+.iniciar{
+    background-color: blue;
+    color: blanchedalmond;
+    width: 125px;
+    height: 24px;
+    font-family: 'Muli', sans-serif; 
+
+}
+
+nav{
+    
+}
+
+.main {
+    
+    padding-top: 30px;
+    height: 180px;
+    text-align: center;   
+    margin-top: 20px;
+}
+
+
+.input {
+    background-color: whitesmoke;
+    border: 2px solid black;
+    border-radius: 100px;
+    color: white;
+    font-family: 'Muli', sans-serif;
+    font-size: 16px;
+    height: 50px;
+    padding: 0px 20px;
+    width: 70%;
+    
+    
+}
+
+button {
+    cursor: pointer;
+    border: 1px solid;
+    
+}
+
+.google {
+    padding: 10px;
+
+}
+
+section .imagen {
+    width: 100%;
+}

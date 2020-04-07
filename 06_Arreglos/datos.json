@@ -1,0 +1,36 @@
+
+[
+    {
+        "nombre": "ronald",
+        "edad": 29,
+        "telefono": "3185040951",
+        "direccion": "calle 32",
+        "familia: true",
+        "musica": ["salsa", "Cumbia", "Reggeteon", "Mertal"],
+        "peliculas" : {
+            "terror" : false,
+            "romanticas" : ["titanic", "Romeo y Julieta"]
+        }
+    }
+
+    {
+        "nombre": "ronald",
+        "edad": 29,
+        "telefono": "3185040951",
+        "direccion": "calle 32",
+        "familia: true",
+        "musica": ["salsa", "Cumbia", "Reggeteon", "Mertal"],
+        "peliculas" : {
+            "terror" : false,
+            "romanticas" : ["titanic", "Romeo y Julieta"]
+        }
+    }
+
+
+
+
+]
+
+
+
+

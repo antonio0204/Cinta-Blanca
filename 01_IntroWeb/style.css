@@ -1,0 +1,21 @@
+* {
+    padding: 0%;
+    background-color: #f5f1da;
+}
+
+nav {
+    
+    justify-content: space-between;
+}
+
+.fotos1   {
+    width: 400px;
+}
+
+.fotos   {
+    width: 200px;
+}
+
+h1{
+    text-align: center;
+}
